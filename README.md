@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 The purpose of this project is for me to learn Web Development
+
 website preview: https://fixed-gear-react-tailwind.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
